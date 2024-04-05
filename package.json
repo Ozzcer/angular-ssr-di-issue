@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "serve:ssr:ssr-injection-issue": "node dist/ssr-injection-issue/server/server.mjs"
   },
   "private": true,
   "dependencies": {
