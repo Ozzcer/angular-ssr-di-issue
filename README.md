@@ -1,3 +1,5 @@
+Example for [Github Issue](https://github.com/angular/angular-cli/issues/26323)
+
 # SsrInjectionIssue
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
